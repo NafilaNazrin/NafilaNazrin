@@ -1,6 +1,6 @@
 - Hi, I’m @NafilaNazrin
-- I’m interested in artificial intelligence
-- I’m currently pursuing UG in B.tech AI and DS
+- I’m interested in Artificial Intelligence
+- I’m currently pursuing B.tech AI and DS
 
 <!---
 NafilaNazrin/NafilaNazrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
